@@ -19,7 +19,7 @@ pnpm add lodash -w -D
 ```
 
 ## Observations
-
+ss
 `npm run build --ws` doesn't build packages in the correct order... For example `app` with dep `package-a` will build before `package-a`
 
 ### Changesets flow
