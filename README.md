@@ -10,7 +10,7 @@ pnpm install
 ```
   
 ## Running scripts
-
+  
 
 Add dependency to root dir with `-w` flag
 
